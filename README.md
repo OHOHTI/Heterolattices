@@ -15,3 +15,11 @@ This repository contains code and data for the heterolattices discovery. The cod
 4. C2DB/: notebook file work with C2DB database on band crossing analysis. Python file of structure generation. To generate, lists of structures in results/ can be used.
 
 ```python hetero_gen.py```
+
+### data
+
+The original raw data can be accessed from the official databases:
+
+2DMatPedia: http://www.2dmatpedia.org
+
+C2DB: https://cmr.fysik.dtu.dk/c2db/c2db.html
