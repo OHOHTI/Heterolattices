@@ -20,6 +20,6 @@ This repository contains code and data for the heterolattices discovery. The cod
 
 The original raw data can be accessed from the official databases:
 
-2DMatPedia: http://www.2dmatpedia.org
+Jarvis-DFT: https://jarvis.nist.gov
 
 C2DB: https://cmr.fysik.dtu.dk/c2db/c2db.html
