@@ -1,5 +1,6 @@
 # Heterolattices
 This repository contains code and data for the heterolattices discovery. The code including structure generation through Zur algorithm and interlayer distance optimization, elastic energy estimation for further screening, Fermi level alignment and band crossing evaluation for interlayer coupling analysis. Lists of commensurate pairs of monolayers originated from monolayers in C2DB and Jarvis databases are contained.
+
 <img width="4076" height="2204" alt="PipelineHeterolattices" src="https://github.com/user-attachments/assets/7773bbea-ad8f-4176-bc1a-b3fdda91c90b" />
 
 
