@@ -1,5 +1,5 @@
 # Heterolattices
-This repository contains code and data for the heterolattices discovery. The code including structure generation through Zur algorithm, elastic energy estimation for further screening, Fermi level alignment and band crossing evaluation for interlayer coupling analysis. Lists of generated heterostructures originated from monolayers in C2DB and Jarvis databases are contained.
+This repository contains code and data for the heterolattices discovery. The code including structure generation through Zur algorithm and interlayer distance optimization, elastic energy estimation for further screening, Fermi level alignment and band crossing evaluation for interlayer coupling analysis. Lists of commensurate pairs of monolayers originated from monolayers in C2DB and Jarvis databases are contained.
 
 ### Repository Structure
 
